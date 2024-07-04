@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="register">Register</string>
+    <string name="new_here">new here</string>
+    <string name="New_Here">New_Here?</string>
+    <string name="login">Login</string>
+    <string name="share_your_story_nwith_us">Share Your Story\nWith Us</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="fueling_your_academic_journey">Fueling your academic journey</string>
+    <string name="brainiacs">Brainiacs</string>
+    <string name="Fueling_your_academic_journey">Fueling your academic journey</string>
+    <string name="new_feeds">New Feeds</string>
+    <string name="background">background</string>
+    <string name="this_is_an_example_of_blog_skds_skdnsd_skdnskd_skdnskd_sdknsd_dh">this is an example of blog skds skdnsd skdnskd skdnskd sdknsd dh</string>
+</resources>
